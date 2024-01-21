@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ychat</string>
+    <string name="todo">TODO</string>
+    <string name="otp_verification">OTP VERIFICATION</string>
+    <string name="otp_verification_text">We will send you an one time password on this number</string>
+    <string name="enter_mobile_number">Enter Mobile number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="_123456789"> 123456789</string>
+    <string name="verify_otp">Verify</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602898749995",
+    "project_id": "ychat-db59d",
+    "storage_bucket": "ychat-db59d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602898749995:android:d35e0bb6fbe0c14f30686e",
+        "android_client_info": {
+          "package_name": "chaitu.android.ychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkP5F-d8BH6beSnifNNwrFKGukBCTYg44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
