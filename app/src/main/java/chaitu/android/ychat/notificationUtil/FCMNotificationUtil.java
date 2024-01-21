@@ -23,7 +23,7 @@ public class FCMNotificationUtil {
 
     public static void sendNotification(Context context, String messageBody) {
         HashMap<String,String>headers=new HashMap<>();
-        headers.put("Authorization","key=AAAAjF-Q2is:APA91bFKqHNSGiClcop9OnqlGT5xL-Zx1F_Y7tKIJz0TFpoww1cg9e3UyAWeq4zrVO-enI9EMCDIWI15FtHjCdQhiOnT5dBlThaZiGgydmYviCVnf_SHRqyIB78O4QThyKcpH0jmPCYs");
+        headers.put("Authorization","key=YOUR_SERVER_KEY");
         headers.put("Content-Type","application/json");
         ApiClient.getClient().create(ApiService.class).sendMessage(headers,messageBody).enqueue(new Callback<String>() {
             @Override
